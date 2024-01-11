@@ -22,7 +22,7 @@
   - *Sub-Category*: Підкатегорія продукту (Bookcases, Art, Phones, Tables and other).
   - *Product Name*: Повна назва продукту.
   - *Sales*: Ціна продукту в доларах.
-  ## Використання
+## Використання
 Цей датасет буде використаних для прогнозу можливих майбутніх продажей.
 # Retail_sales_forecasting App
 ![App](https://github.com/ViktorPrystai/Retail_sales_forecasting/blob/main/Retail_sales_forecasting/Screenshots/Роздрібні%20продажі%20Forecasting%20App.jpg)
